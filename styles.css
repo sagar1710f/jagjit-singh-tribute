@@ -42,6 +42,7 @@ body {
     z-index: 2;
     max-width: 600px; /* Optional: control the width of the text box */
     margin-right: 0; /* Align text box to the right */
+    text-align: center;
 }
 
 .hero-content h1 {
